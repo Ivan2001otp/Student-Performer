@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960694877306",
+    "project_id": "reliant-a9b23",
+    "storage_bucket": "reliant-a9b23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960694877306:android:fe765cb004d836f1dc0fc3",
+        "android_client_info": {
+          "package_name": "com.ivan.reliant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960694877306-jkjinrqsj7q41da92rpqa2k0jkbtc3i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd2e1TSJcqpRetXT26JZCtDh9kfuJWwvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960694877306-jkjinrqsj7q41da92rpqa2k0jkbtc3i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
